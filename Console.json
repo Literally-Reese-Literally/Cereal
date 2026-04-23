@@ -1,5 +1,5 @@
 {
-"min-console-version": "1.0.0",
+"min-console-version": "3.0.0",
 "admins": [
     {
       "name": "Twig",
