@@ -54,10 +54,6 @@
        "user-id": "C9027C8A184048B"
     },
     {
-       "name": "Heheh",
-       "user-id": "F4ABDA85BF515C53"
-    },
-    {
        "name": "Grapes",
        "user-id": "3D58825E467F1007"
     }
@@ -65,7 +61,6 @@
   "super-admins": [
     "Lexi",
     "Twig",
-    "kingofnetflix",
-    "Object GT"
+    "kingofnetflix"
   ]
 }
