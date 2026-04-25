@@ -22,14 +22,6 @@
       "user-id": "6D98F8C3F4C218C8"
     },
     {
-      "name": "Zlothy",
-      "user-id": "FF912EF4590C7E35"
-    },
-    {
-      "name": "HanSolo1000falcon",
-      "user-id": "A48744B93D9A3596"
-    },
-    {
       "name": "test",
       "user-id": "EF42CBBAEBE42EA"
     },
@@ -37,7 +29,6 @@
       "name": "Lexi",
       "user-id": "467114172575CC01"
     },
-
     {
       "name": "Gore",
       "user-id": "EA1890560D1B7F87"
@@ -68,8 +59,6 @@
     }
   ],
   "super-admins": [
-    "Lexi",
-    "Twig",
-    "kingofnetflix"
+    "Lexi"
   ]
 }
