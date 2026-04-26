@@ -42,10 +42,6 @@
        "user-id": "4F660B199338AFE0"
     },
     {
-       "name": "Deez",
-       "user-id": "C9027C8A184048B"
-    },
-    {
         "name": "Object GT",
         "user-id": "69B87228EC7FF7F2"
     },
@@ -59,7 +55,6 @@
     }
   ],
   "super-admins": [
-    "Lexi",
-    "Deez"
+    "Lexi"
   ]
 }
